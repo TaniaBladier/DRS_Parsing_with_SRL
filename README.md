@@ -2,3 +2,7 @@
 Code and data for paper "Improving DRS Parsing with Separately Predicted Semantic Roles" at CSTFRS workshop https://sites.google.com/view/cstfrs-2021/program
 
 Code and data will appear here soon.
+
+https://github.com/texttheater/tbsp
+
+https://github.com/RikVN/SRL-DRS
