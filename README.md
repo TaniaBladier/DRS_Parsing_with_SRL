@@ -26,6 +26,8 @@ This conversion is trickier than the syntax-agnostic one. Please contact [Gosse 
 
 You can use any model of your choice to train an SRL labeler. We have showed in our paper that the performance of the SRL labeling system is the bottleneck of our approach. Thus it can be helpful to use the most recent neural model to get the best SRL results.
 
+You can find our data split in the folder [data](https://github.com/TaniaBladier/DRS_Parsing_with_SRL/tree/main/data)
+
 ### Use predicted SRLs for your DRS parser
 
 Once you have predicted the SRLs, you can try to use them for the output of your DRS parser. This might improve your parsing results. Please follow the steps described in this repository:
